@@ -1,0 +1,17 @@
+{
+  "name": "barn",
+  "version": "0.0.1",
+  "description": "Simple key-value storage",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yaroslav Gaponov",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "typescript": "^3.7.2",
+    "@types/node": "^12.12.14"
+  }
+}
